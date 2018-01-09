@@ -4,10 +4,10 @@
  <bpm>136</bpm>
  <volume>0.876316</volume>
  <metronomeVolume>0.5</metronomeVolume>
- <name>Untitled Song</name>
- <author>Unknown</author>
- <notes>Empty song.</notes>
- <license>Unknown license</license>
+ <name>Walk Idiot Walk</name>
+ <author>The Hives</author>
+ <notes></notes>
+ <license>BSD 3</license>
  <loopEnabled>true</loopEnabled>
  <patternModeMode>true</patternModeMode>
  <mode>song</mode>
