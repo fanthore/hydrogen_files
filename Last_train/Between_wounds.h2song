@@ -6,8 +6,8 @@
  <metronomeVolume>0.5</metronomeVolume>
  <name>Between Wounds</name>
  <author>Last Train</author>
- <notes></notes>
- <license></license>
+ <notes>...</notes>
+ <license>BSD</license>
  <loopEnabled>true</loopEnabled>
  <patternModeMode>true</patternModeMode>
  <mode>song</mode>
