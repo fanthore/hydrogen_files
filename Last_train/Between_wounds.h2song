@@ -4,10 +4,10 @@
  <bpm>90</bpm>
  <volume>0.73</volume>
  <metronomeVolume>0.5</metronomeVolume>
- <name>Untitled Song</name>
- <author>Unknown</author>
- <notes>Empty song.</notes>
- <license>Unknown license</license>
+ <name>Between Wounds</name>
+ <author>Last Train</author>
+ <notes></notes>
+ <license></license>
  <loopEnabled>true</loopEnabled>
  <patternModeMode>true</patternModeMode>
  <mode>song</mode>
