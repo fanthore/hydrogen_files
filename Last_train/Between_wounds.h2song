@@ -10,7 +10,7 @@
  <license>BSD</license>
  <loopEnabled>true</loopEnabled>
  <patternModeMode>true</patternModeMode>
- <mode>song</mode>
+ <mode>pattern</mode>
  <humanize_time>0</humanize_time>
  <humanize_velocity>0</humanize_velocity>
  <swing_factor>0</swing_factor>
@@ -1078,7 +1078,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>156</position>
+     <position>150</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1098,7 +1098,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>0</instrument>
+     <instrument>4</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1110,7 +1110,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>13</instrument>
+     <instrument>15</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -1123,6 +1123,18 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>4</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>180</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>15</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -1469,7 +1481,19 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>174</position>
+     <position>168</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>13</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>180</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
@@ -1482,6 +1506,18 @@
     </note>
     <note>
      <position>180</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>13</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>186</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
