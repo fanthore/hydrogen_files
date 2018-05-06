@@ -6,8 +6,8 @@
  <metronomeVolume>0.5</metronomeVolume>
  <name>I believe in miracles</name>
  <author>The Ramones</author>
- <notes></notes>
- <license></license>
+ <notes>...</notes>
+ <license>Unknown license</license>
  <loopEnabled>true</loopEnabled>
  <patternModeMode>true</patternModeMode>
  <mode>song</mode>
@@ -320,7 +320,7 @@
    <id>0</id>
    <name>Kick</name>
    <drumkit>GMkit</drumkit>
-   <volume>1</volume>
+   <volume>1.06034</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -2510,6 +2510,162 @@
   </group>
   <group>
    <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Fill3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1ter</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1quat</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1ter</patternID>
+  </group>
+  <group>
+   <patternID>Fill3</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus2</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus2</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Fill3</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Pattern 1</patternID>
+  </group>
+  <group>
+   <patternID>Fill3</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Pattern1bis</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus2</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus</patternID>
+  </group>
+  <group>
+   <patternID>Chorus2</patternID>
   </group>
  </patternSequence>
  <ladspa>
